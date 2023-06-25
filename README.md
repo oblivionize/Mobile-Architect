@@ -2,8 +2,7 @@
 
 
     • Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
-    
-
+        The goal of this app is to track an inventory of items. You can add, delete, and update the quantity of items. It should also send sms notifications when the quanity of an item is low.
     
     • What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
 
